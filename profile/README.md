@@ -2,8 +2,9 @@
 
 <p align="center">
 <a href="https://ux-mind.pro/" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/8074ac8a-0083-49b1-a222-3d8b667d2f4d" alt="UX MIND ™ | Digital Design Agency"  /></a>
+</p>
 
-<hr/>
+---
   
 <a href="https://www.upwork.com/agencies/uxmind/" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/bedc4878-9f73-4ce6-b37d-514be45461bf" alt="www.upwork.com" height="36" width="36" /></a>
 · 
