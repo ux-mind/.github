@@ -1,4 +1,4 @@
-## We are UX-Mind
+<h2>We are <a href="https://ux-mind.pro/" target="_blank">UX-Mind</a></h2>
 
 We are an independent _digital design_ agency
 
