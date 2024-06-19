@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<a href="https://ux-mind.pro/" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/8074ac8a-0083-49b1-a222-3d8b667d2f4d" alt="UX MIND ™ | Digital Design Agency"  /></a>
+<a href="https://ux-mind.pro/" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/8074ac8a-0083-49b1-a222-3d8b667d2f4d" alt="UX MIND ™ | Digital Design Agency" width="100"  /></a>
 </p>
 
 ---
