@@ -1,6 +1,8 @@
- # We're an independent _digital design_ agency
+## We are UX-Mind
 
- We create connection between the worlds of design, technology and business with a high converstion result
+We are an independent _digital design_ agency
+
+We create connection between the worlds of design, technology and business with a high converstion result
 
  
 ---
