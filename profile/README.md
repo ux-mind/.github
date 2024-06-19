@@ -17,5 +17,4 @@
 <a href="https://x.com/ux_mind_pro" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="upwork" height="40" width="40" /></a>
 · 
 <a href="https://www.instagram.com/ux_mind_pro/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="upwork" height="40" width="40" /></a>
-·
 </p>
