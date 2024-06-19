@@ -7,7 +7,7 @@ We create connection between the worlds of design, technology and business with 
 ---
 
 <p align="left">
-<a href="https://www.upwork.com/agencies/uxmind/" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/fe22466c-b8b1-4a48-8444-d1f963e4e6f9" alt="www.upwork.com" height="36" width="36" /></a>
+<a href="https://www.upwork.com/agencies/uxmind/" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/bedc4878-9f73-4ce6-b37d-514be45461bf" alt="www.upwork.com" height="36" width="36" /></a>
 · 
 <a href="https://dribbble.com/ux-mind-pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/95d04197-2dbd-4b62-82f4-f08d89a7ac7a" alt="dribbble.com" height="36" width="36" /></a>
 ·  
