@@ -3,7 +3,9 @@
 We are an independent _digital design_ agency
 
 We create connection between the worlds of design, technology and business with a high converstion result
- 
+
+![1 0 _Home_page](https://github.com/ux-mind/.github/assets/60358374/8074ac8a-0083-49b1-a222-3d8b667d2f4d)
+
 ---
 
 <p align="left">
