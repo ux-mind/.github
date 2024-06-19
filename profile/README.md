@@ -18,4 +18,6 @@ We create connection between the worlds of design, technology and business with 
 <a href="https://x.com/ux_mind_pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/3f148903-653c-4a5e-9f5a-dd45789a8e4f" alt="x.com" height="36" width="36" /></a>
 · 
 <a href="https://www.instagram.com/ux_mind_pro/" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/725c3576-12de-4268-ac84-3c0fbca4026a" alt="www.instagram.com" height="36" width="36" /></a>
+· 
+<a href="https://api.whatsapp.com/message/AQN4LCEQWZXJK1?autoload=1&app_absent=0" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/b2cae0bc-8aae-4f4a-83cb-f5cdb18b1f77" alt="api.whatsapp.com" height="36" width="36" /></a>
 </p>
