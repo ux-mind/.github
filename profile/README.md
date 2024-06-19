@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<a href="https://ux-mind.pro/" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/840b5e38-2755-4649-8326-17c2cb00ec8f" alt="UX MIND ™ | Digital Design Agency" width="1500px"  /></a>
+<a href="https://ux-mind.pro/" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/926dede8-d496-47af-9694-56e0a03b0485" alt="UX MIND ™ | Digital Design Agency" width="1500px"  /></a>
 </p>
 
 ---
@@ -23,5 +23,4 @@
 · 
 <a href="mailto:info@ux-mind.pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/ec231704-d8c6-4ebe-9d42-a6372bf7b589" alt="email" height="32" width="32" /></a>
 </p>
-
 
