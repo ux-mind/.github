@@ -13,7 +13,7 @@
 ·
 <a href="https://www.linkedin.com/company/ux-mind-pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/1dee4ba3-4f1b-4ed4-9c49-5293f817e620" alt="www.linkedin.com" height="32" width="32" /></a>
 ·
-<a href="https://x.com/ux_mind_pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/3f148903-653c-4a5e-9f5a-dd45789a8e4f" alt="x.com" height="32" width="32" /></a>
+<a href="https://x.com/ux_mind_pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/ebabcf5e-bd77-4d97-85c2-e42a51bb2a1f" alt="x.com" height="32" width="32" /></a>
 ·
 <a href="https://www.instagram.com/ux_mind_pro/" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/725c3576-12de-4268-ac84-3c0fbca4026a" alt="www.instagram.com" height="32" width="32" /></a>
 ·
@@ -21,5 +21,3 @@
 ·
 <a href="mailto:info@ux-mind.pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/ec231704-d8c6-4ebe-9d42-a6372bf7b589" alt="email" height="32" width="32" /></a>
 </p>
-
-
