@@ -5,19 +5,67 @@
 </picture></a></p>
 
 <p align="center">
-<a href="https://www.upwork.com/agencies/uxmind/" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/93de3a07-e273-496d-a5b2-57a190237c97" alt="www.upwork.com" height="32" width="32" /></a>
+<a target="_blank" href="https://www.upwork.com/agencies/uxmind/">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/3b87f526-79fd-44f8-8a46-d7a07545c870">
+  <source media="(prefers-color-scheme: light)" width="32" height="32"  srcset="https://github.com/ux-mind/.github/assets/60358374/61fdb99b-c914-4715-b358-fa86ffdc108c">
+  <img alt="www.upwork.com" src="https://github.com/ux-mind/.github/assets/60358374/3b87f526-79fd-44f8-8a46-d7a07545c870">
+</picture>
+</a>
 ·
-<a href="https://dribbble.com/ux-mind-pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/95d04197-2dbd-4b62-82f4-f08d89a7ac7a" alt="dribbble.com" height="32" width="32" /></a>
+<a target="_blank" href="https://dribbble.com/ux-mind-pro">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/0dbf6805-9bb2-4286-8057-38977ae942ff">
+  <source media="(prefers-color-scheme: light)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/901585f6-8d6a-4e73-9ca8-d77c4bdd6d60">
+  <img alt="dribbble.com" src="https://github.com/ux-mind/.github/assets/60358374/0dbf6805-9bb2-4286-8057-38977ae942ff">
+</picture>
+</a>
 ·
-<a href="https://www.behance.net/ux-mind-pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/edeb41dc-4c7f-482d-937f-dd933fd2f5e7" alt="www.behance.net" height="32" width="32" /></a>
+<a target="_blank" href="https://www.behance.net/ux-mind-pro">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/346c0236-4779-401a-8ed8-f5a180d44c4e">
+  <source media="(prefers-color-scheme: light)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/58b7c716-0b16-4776-b938-498eaaae503f">
+  <img alt="www.behance.net" src="https://github.com/ux-mind/.github/assets/60358374/346c0236-4779-401a-8ed8-f5a180d44c4e">
+</picture>
+</a>
 ·
-<a href="https://www.linkedin.com/company/ux-mind-pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/1dee4ba3-4f1b-4ed4-9c49-5293f817e620" alt="www.linkedin.com" height="32" width="32" /></a>
+<a target="_blank" href="https://www.linkedin.com/company/ux-mind-pro">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/e4df8463-3bee-44cf-9667-d2b18312a49e">
+  <source media="(prefers-color-scheme: light)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/1b76b585-c78b-4839-8bed-4bfe59e51cb2">
+  <img alt="www.linkedin.com" src="https://github.com/ux-mind/.github/assets/60358374/e4df8463-3bee-44cf-9667-d2b18312a49e">
+</picture>
+</a>
 ·
-<a href="https://x.com/ux_mind_pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/ebabcf5e-bd77-4d97-85c2-e42a51bb2a1f" alt="x.com" height="32" width="32" /></a>
+<a target="_blank" href="https://x.com/ux_mind_pro">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/73d10533-97e3-4fce-b8d3-bf4f07f14691">
+  <source media="(prefers-color-scheme: light)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/83211318-0905-4394-b5e4-5246b77436d8">
+  <img alt="x.com" src="https://github.com/ux-mind/.github/assets/60358374/73d10533-97e3-4fce-b8d3-bf4f07f14691">
+</picture>
+</a>
 ·
-<a href="https://www.instagram.com/ux_mind_pro/" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/725c3576-12de-4268-ac84-3c0fbca4026a" alt="www.instagram.com" height="32" width="32" /></a>
+<a target="_blank" href="https://www.instagram.com/ux_mind_pro/">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/bd32f2c4-615d-425a-8658-51836a35c4df">
+  <source media="(prefers-color-scheme: light)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/5374d16c-8509-48b5-a39a-09de48a4afe7">
+  <img alt="www.instagram.com" src="https://github.com/ux-mind/.github/assets/60358374/bd32f2c4-615d-425a-8658-51836a35c4df">
+</picture>
+</a>
 ·
-<a href="https://api.whatsapp.com/message/AQN4LCEQWZXJK1?autoload=1&app_absent=0" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/b2cae0bc-8aae-4f4a-83cb-f5cdb18b1f77" alt="api.whatsapp.com" height="32" width="32" /></a>
+<a target="_blank" href="https://api.whatsapp.com/message/AQN4LCEQWZXJK1?autoload=1&app_absent=0">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/eb90b02b-de1f-44a2-b243-3d7b4d8d4c7e">
+  <source media="(prefers-color-scheme: light)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/371798aa-2e16-4866-bbf8-44730d742d1c">
+  <img alt="api.whatsapp.com" src="https://github.com/ux-mind/.github/assets/60358374/eb90b02b-de1f-44a2-b243-3d7b4d8d4c7e">
+</picture>
+</a>
 ·
-<a href="mailto:info@ux-mind.pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/ec231704-d8c6-4ebe-9d42-a6372bf7b589" alt="email" height="32" width="32" /></a>
+<a target="_blank" href="mailto:info@ux-mind.pro">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/c78edb69-918b-44d3-a05c-e3750805e914">
+  <source media="(prefers-color-scheme: light)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/ca3998d9-459b-4372-864a-afc061265d98">
+  <img alt="email" src="https://github.com/ux-mind/.github/assets/60358374/c78edb69-918b-44d3-a05c-e3750805e914">
+</picture>
+</a>
 </p>
