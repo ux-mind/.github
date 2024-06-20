@@ -1,6 +1,6 @@
 <p align="center"><a href="https://ux-mind.pro/" target="_blank"><picture align="center">
-  <source media="(prefers-color-scheme: dark)" width="1500px" srcset="https://github.com/ux-mind/.github/assets/60358374/926dede8-d496-47af-9694-56e0a03b0485">
-  <source media="(prefers-color-scheme: light)" width="1500px"  srcset=https://github.com/ux-mind/.github/assets/60358374/219fde55-da46-486e-9dc7-eadd3fd279d8">
+  <source media="(prefers-color-scheme: dark)" width="1500px" srcset="https://github.com/ux-mind/.github/assets/60358374/219fde55-da46-486e-9dc7-eadd3fd279d8">
+  <source media="(prefers-color-scheme: light)" width="1500px"  srcset="https://github.com/ux-mind/.github/assets/60358374/96c762ca-bcb8-474a-aa3e-ee5e97078c12">
   <img alt="UX MIND ™ | Digital Design Agency" src="https://github.com/ux-mind/.github/assets/60358374/bedc4878-9f73-4ce6-b37d-514be45461bf">
 </picture></a></p>
 
