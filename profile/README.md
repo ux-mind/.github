@@ -1,10 +1,8 @@
 <p align="center"><a href="https://ux-mind.pro/" target="_blank"><picture align="center">
   <source media="(prefers-color-scheme: dark)" width="1500px" srcset="https://github.com/ux-mind/.github/assets/60358374/926dede8-d496-47af-9694-56e0a03b0485">
-  <source media="(prefers-color-scheme: light)" width="1500px"  srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
+  <source media="(prefers-color-scheme: light)" width="1500px"  srcset=https://github.com/ux-mind/.github/assets/60358374/219fde55-da46-486e-9dc7-eadd3fd279d8">
   <img alt="UX MIND ™ | Digital Design Agency" src="https://github.com/ux-mind/.github/assets/60358374/bedc4878-9f73-4ce6-b37d-514be45461bf">
 </picture></a></p>
-
----
 
 <p align="center">
 
@@ -12,7 +10,7 @@
 ·
 <a href="https://dribbble.com/ux-mind-pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/95d04197-2dbd-4b62-82f4-f08d89a7ac7a" alt="dribbble.com" height="32" width="32" /></a>
 ·
-<a href="https://www.behance.net/ux-mind-pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/edeb41dc-4c7f-482d-937f-dd933fd2f5e7" alt="www.behance.net" height="36 width="32" /></a>
+<a href="https://www.behance.net/ux-mind-pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/edeb41dc-4c7f-482d-937f-dd933fd2f5e7" alt="www.behance.net" height="32" width="32" /></a>
 ·
 <a href="https://www.linkedin.com/company/ux-mind-pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/1dee4ba3-4f1b-4ed4-9c49-5293f817e620" alt="www.linkedin.com" height="32" width="32" /></a>
 ·
