@@ -1,11 +1,10 @@
 <p align="center"><a href="https://ux-mind.pro/" target="_blank"><picture align="center">
   <source media="(prefers-color-scheme: dark)" width="1500px" srcset="https://github.com/ux-mind/.github/assets/60358374/219fde55-da46-486e-9dc7-eadd3fd279d8">
   <source media="(prefers-color-scheme: light)" width="1500px"  srcset="https://github.com/ux-mind/.github/assets/60358374/96c762ca-bcb8-474a-aa3e-ee5e97078c12">
-  <img alt="UX MIND ™ | Digital Design Agency" src="https://github.com/ux-mind/.github/assets/60358374/bedc4878-9f73-4ce6-b37d-514be45461bf">
+  <img alt="UX MIND ™ | Digital Design Agency" src="https://github.com/ux-mind/.github/assets/60358374/219fde55-da46-486e-9dc7-eadd3fd279d8">
 </picture></a></p>
 
 <p align="center">
-
 <a href="https://www.upwork.com/agencies/uxmind/" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/bedc4878-9f73-4ce6-b37d-514be45461bf" alt="www.upwork.com" height="32" width="32" /></a>
 ·
 <a href="https://dribbble.com/ux-mind-pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/95d04197-2dbd-4b62-82f4-f08d89a7ac7a" alt="dribbble.com" height="32" width="32" /></a>
@@ -21,5 +20,4 @@
 <a href="https://api.whatsapp.com/message/AQN4LCEQWZXJK1?autoload=1&app_absent=0" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/b2cae0bc-8aae-4f4a-83cb-f5cdb18b1f77" alt="api.whatsapp.com" height="32" width="32" /></a>
 ·
 <a href="mailto:info@ux-mind.pro" target="_blank"><img align="center" src="https://github.com/ux-mind/.github/assets/60358374/ec231704-d8c6-4ebe-9d42-a6372bf7b589" alt="email" height="32" width="32" /></a>
-
 </p>
