@@ -1,10 +1,10 @@
-<p><a href="https://ux-mind.pro/" target="_blank"><picture>
+<p align="center"><a href="https://ux-mind.pro/" target="_blank"><picture>
   <source media="(prefers-color-scheme: dark)" width="1500px" srcset="https://github.com/ux-mind/.github/assets/60358374/219fde55-da46-486e-9dc7-eadd3fd279d8">
   <source media="(prefers-color-scheme: light)" width="1500px"  srcset="https://github.com/ux-mind/.github/assets/60358374/96c762ca-bcb8-474a-aa3e-ee5e97078c12">
   <img alt="UX MIND ™ | Digital Design Agency" src="https://github.com/ux-mind/.github/assets/60358374/219fde55-da46-486e-9dc7-eadd3fd279d8">
 </picture></a></p>
 
-<p>
+<p align="center">
 <a target="_blank" href="https://www.upwork.com/agencies/uxmind/">
 <picture>
   <source media="(prefers-color-scheme: dark)" width="32" height="32" srcset="https://github.com/ux-mind/.github/assets/60358374/3b87f526-79fd-44f8-8a46-d7a07545c870">
